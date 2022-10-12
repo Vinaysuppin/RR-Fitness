@@ -1,0 +1,54 @@
+.bod{
+    background-image: url('https://wallpapercave.com/wp/wp2639536.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+.containerr {
+    
+    display: inline-block;
+    position: absolute;
+    top: 202px;
+    left: 170px;
+    font-size: 20px;
+    color: #dce91a;
+    border: 2px solid rgb(120, 123, 124);
+    border-radius: 10px;
+    padding: 50px;
+
+}
+
+.containerr form {
+    display: block;
+    padding: 10px;
+}
+
+.containerr h3 {
+    display: block;
+    text-align: center;
+
+}
+
+.containerr button {
+    display: block;
+    width: 502px;
+    height: 38px;
+    background-color: #dce91a;
+}
+
+.formm input {
+    display: block;
+    font-family: 'Baloo Bhaina 2', cursive;
+    width: 500px;
+    text-align: center;
+    border-radius: 8px;
+    font-size: 20px;
+    padding: 5px;
+    margin-top: 5px;
+}
+.form input{
+    padding: 6px;
+}
+.butn{
+    margin-top: 10px;
+}
